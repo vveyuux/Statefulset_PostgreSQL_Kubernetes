@@ -1,0 +1,1 @@
+# Statefulset_PostgreSQL_Kubernetes
